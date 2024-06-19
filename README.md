@@ -3,10 +3,9 @@
 <h3 align="center">Passionate to become a developer</h3>
 <img align ="right" alt= "Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 📫 How to reach me **vkmahajan2002@gmail.com
--linkedin.com/in/vishakhamahajan01**
+- 📫 How to reach me **vkmahajan2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-linkedin.com/in/vishakhamahajan01 </h3>
 <p align="left">
 </p>
 
